@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+venv_for_clear_ai/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Project specific
+uploaded_docs/
+qdrant_data/
